@@ -1,0 +1,60 @@
+
+
+
+
+header{
+	
+	text-align: center;
+	background:#FFD700;
+	padding:10px;
+	margin-bottom:10px;
+	border-bottom: 3px solid black;
+	
+}
+
+footer{
+	
+	border-top: 3px solid black;
+	text-align: center;
+	background:#FF8C00;
+	padding:10px;
+	margin-bottom:10px;
+	
+}
+
+main{
+	
+	background:	#B0E0E6;
+	text-align: center;
+	
+	
+}
+
+form{
+	
+	background:	#D3D3D3;
+	font-size: 20px;
+	width: 60%;
+	height: 50%;
+	
+	border: 5px solid black;
+	padding:15px;
+	
+	
+}
+
+input{
+	
+	font-size: 20px;
+	margin:3px;
+	padding:5px;
+	
+}
+label{
+	
+	font-size: 30px;
+	margin:3px;
+	padding:5px;
+	text-decoration:blod;
+	
+}
